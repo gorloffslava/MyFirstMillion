@@ -12,6 +12,7 @@
 		CC0DDE2A1F7915F300D9C4C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC0DDE281F7915F300D9C4C6 /* Main.storyboard */; };
 		CC0DDE2C1F7915F300D9C4C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC0DDE2B1F7915F300D9C4C6 /* Assets.xcassets */; };
 		CC0DDE2F1F7915F300D9C4C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC0DDE2D1F7915F300D9C4C6 /* LaunchScreen.storyboard */; };
+		CC0DDE391F793C3300D9C4C6 /* OurOwnButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC0DDE381F793C3300D9C4C6 /* OurOwnButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CC0DDE2B1F7915F300D9C4C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC0DDE2E1F7915F300D9C4C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC0DDE301F7915F300D9C4C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC0DDE381F793C3300D9C4C6 /* OurOwnButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OurOwnButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CC0DDE241F7915F300D9C4C6 /* AppDelegate.swift */,
 				CC0DDE261F7915F300D9C4C6 /* ViewController.swift */,
 				CC0DDE281F7915F300D9C4C6 /* Main.storyboard */,
+				CC0DDE381F793C3300D9C4C6 /* OurOwnButton.swift */,
 				CC0DDE2B1F7915F300D9C4C6 /* Assets.xcassets */,
 				CC0DDE2D1F7915F300D9C4C6 /* LaunchScreen.storyboard */,
 				CC0DDE301F7915F300D9C4C6 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC0DDE271F7915F300D9C4C6 /* ViewController.swift in Sources */,
+				CC0DDE391F793C3300D9C4C6 /* OurOwnButton.swift in Sources */,
 				CC0DDE251F7915F300D9C4C6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
